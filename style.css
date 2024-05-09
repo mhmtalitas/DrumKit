@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(54, 61, 100);
+}
+.container{
+    text-align: center;
+
+}
+.container h1{
+    font-size: 70px;
+}
+.container .img{
+
+    height: 480px;
+    width: 640px;
+    
+}
+.container-btn{
+    display: flex;
+    justify-content: center;
+    
+    
+
+   
+}
+
+.btn{
+    
+    width: 50px;
+    height: 50px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 6px; 
+    cursor: pointer;
+    margin: 10px;
+  
+}
+
